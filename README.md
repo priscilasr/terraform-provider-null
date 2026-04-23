@@ -114,3 +114,15 @@ changie batch 3.2.4 && changie merge
 ## License
 
 [Mozilla Public License v2.0](./LICENSE)
+
+
+# Demo Project
+
+<p style="color: red; font-weight: bold;">
+  This README uses unsafe inline styles.
+</p>
+
+<span style="background-color: #eee; padding: 4px;">
+  Inline CSS like this may violate CSP rules.
+</span>
+
